@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -n
-exec bash
+ls -lna
